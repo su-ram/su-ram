@@ -1,4 +1,6 @@
-### Hi, I'm suram. <img src = "https://user-images.githubusercontent.com/35549653/89557319-91e4e500-d84d-11ea-9566-47a14f57b06c.gif" width = "30px">
+### Hi, I'm suram. 
+<img src = "https://user-images.githubusercontent.com/20367043/102791318-307f7600-43ea-11eb-940c-f63f87db2ec4.gif" width = "150px" align = "right">
+
 
 - 🥨 Computer Engineering Undergraduate (2016 ~ ) 
 - 🎃 Job seeking as Backend Server Engineer 
