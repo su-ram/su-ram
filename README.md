@@ -1,6 +1,3 @@
-
-
-- 😉 Suram Kim
 - 🥨 Backend Software Engineer
 - 🌈 Check my [RESUME](https://www.notion.so/d1c17e0d367e41f6a9e993d8963b39a7) (You can also check in [PDF](https://drive.google.com/file/d/1iBQfKZ5x9-L16wrFy2wjAHdxZsAnXxu8/view?usp=sharing))
 - <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
