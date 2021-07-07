@@ -1,5 +1,5 @@
 - 🥨 Backend Software Engineer
-- 🌈 Check my [RESUME](https://www.notion.so/d1c17e0d367e41f6a9e993d8963b39a7)
+- 🌈 Check my [RESUME](https://drive.google.com/file/d/1vMC1Wx6Dr6Qwo7TtVI5USlGifqZveWVO/view?usp=sharing)
 - <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
